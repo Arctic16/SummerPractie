@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mySummer</string>
+    <string name="button">Получить результат</string>
+    <string name="name" translatable="false">Введите имя</string>
+    <string name="rost" translatable="false">Введите рост</string>
+    <string name="text1" translatable="false">Вычислить калории</string>
+    <string name="ves" translatable="false">Введите вес</string>
+    <string name="age" translatable="false">Введите возраст</string>
+    <string name="result" translatable="false">Результат</string>
+</resources>
